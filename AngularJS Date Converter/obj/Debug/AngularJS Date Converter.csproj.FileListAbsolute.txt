@@ -1,0 +1,32 @@
+C:\Projects\TicketVista\AngularJS Date Converter\AngularJS Date Converter\bin\AngularJS Date Converter.dll.config
+C:\Projects\TicketVista\AngularJS Date Converter\AngularJS Date Converter\bin\AngularJS Date Converter.dll
+C:\Projects\TicketVista\AngularJS Date Converter\AngularJS Date Converter\bin\AngularJS Date Converter.pdb
+C:\Projects\TicketVista\AngularJS Date Converter\AngularJS Date Converter\bin\Antlr3.Runtime.dll
+C:\Projects\TicketVista\AngularJS Date Converter\AngularJS Date Converter\bin\Microsoft.Web.Infrastructure.dll
+C:\Projects\TicketVista\AngularJS Date Converter\AngularJS Date Converter\bin\Newtonsoft.Json.dll
+C:\Projects\TicketVista\AngularJS Date Converter\AngularJS Date Converter\bin\System.Net.Http.Formatting.dll
+C:\Projects\TicketVista\AngularJS Date Converter\AngularJS Date Converter\bin\System.Web.Helpers.dll
+C:\Projects\TicketVista\AngularJS Date Converter\AngularJS Date Converter\bin\System.Web.Http.dll
+C:\Projects\TicketVista\AngularJS Date Converter\AngularJS Date Converter\bin\System.Web.Http.WebHost.dll
+C:\Projects\TicketVista\AngularJS Date Converter\AngularJS Date Converter\bin\System.Web.Mvc.dll
+C:\Projects\TicketVista\AngularJS Date Converter\AngularJS Date Converter\bin\System.Web.Optimization.dll
+C:\Projects\TicketVista\AngularJS Date Converter\AngularJS Date Converter\bin\System.Web.Razor.dll
+C:\Projects\TicketVista\AngularJS Date Converter\AngularJS Date Converter\bin\System.Web.WebPages.Deployment.dll
+C:\Projects\TicketVista\AngularJS Date Converter\AngularJS Date Converter\bin\System.Web.WebPages.dll
+C:\Projects\TicketVista\AngularJS Date Converter\AngularJS Date Converter\bin\System.Web.WebPages.Razor.dll
+C:\Projects\TicketVista\AngularJS Date Converter\AngularJS Date Converter\bin\WebGrease.dll
+C:\Projects\TicketVista\AngularJS Date Converter\AngularJS Date Converter\bin\System.Web.Helpers.xml
+C:\Projects\TicketVista\AngularJS Date Converter\AngularJS Date Converter\bin\System.Web.Mvc.xml
+C:\Projects\TicketVista\AngularJS Date Converter\AngularJS Date Converter\bin\System.Web.Optimization.xml
+C:\Projects\TicketVista\AngularJS Date Converter\AngularJS Date Converter\bin\System.Web.Razor.xml
+C:\Projects\TicketVista\AngularJS Date Converter\AngularJS Date Converter\bin\System.Web.WebPages.xml
+C:\Projects\TicketVista\AngularJS Date Converter\AngularJS Date Converter\bin\System.Web.WebPages.Deployment.xml
+C:\Projects\TicketVista\AngularJS Date Converter\AngularJS Date Converter\bin\System.Web.WebPages.Razor.xml
+C:\Projects\TicketVista\AngularJS Date Converter\AngularJS Date Converter\bin\Antlr3.Runtime.pdb
+C:\Projects\TicketVista\AngularJS Date Converter\AngularJS Date Converter\bin\Newtonsoft.Json.xml
+C:\Projects\TicketVista\AngularJS Date Converter\AngularJS Date Converter\bin\System.Net.Http.Formatting.xml
+C:\Projects\TicketVista\AngularJS Date Converter\AngularJS Date Converter\bin\System.Web.Http.xml
+C:\Projects\TicketVista\AngularJS Date Converter\AngularJS Date Converter\bin\System.Web.Http.WebHost.xml
+C:\Projects\TicketVista\AngularJS Date Converter\AngularJS Date Converter\obj\Debug\AngularJS Date Converter.dll
+C:\Projects\TicketVista\AngularJS Date Converter\AngularJS Date Converter\obj\Debug\AngularJS Date Converter.pdb
+C:\Projects\TicketVista\AngularJS Date Converter\AngularJS Date Converter\obj\Debug\AngularJS Date Converter.csprojResolveAssemblyReference.cache

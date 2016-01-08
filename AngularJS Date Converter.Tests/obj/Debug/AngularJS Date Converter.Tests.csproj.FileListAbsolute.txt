@@ -1,0 +1,26 @@
+C:\Projects\TicketVista\AngularJS Date Converter\AngularJS Date Converter.Tests\bin\Debug\AngularJS Date Converter.Tests.dll
+C:\Projects\TicketVista\AngularJS Date Converter\AngularJS Date Converter.Tests\bin\Debug\AngularJS Date Converter.Tests.pdb
+C:\Projects\TicketVista\AngularJS Date Converter\AngularJS Date Converter.Tests\obj\Debug\AngularJS Date Converter.Tests.csprojResolveAssemblyReference.cache
+C:\Projects\TicketVista\AngularJS Date Converter\AngularJS Date Converter.Tests\obj\Debug\AngularJS Date Converter.Tests.dll
+C:\Projects\TicketVista\AngularJS Date Converter\AngularJS Date Converter.Tests\obj\Debug\AngularJS Date Converter.Tests.pdb
+C:\Projects\TicketVista\AngularJS Date Converter\AngularJS Date Converter.Tests\bin\Debug\AngularJS Date Converter.Tests.dll.config
+C:\Projects\TicketVista\AngularJS Date Converter\AngularJS Date Converter.Tests\bin\Debug\AngularJS Date Converter.dll
+C:\Projects\TicketVista\AngularJS Date Converter\AngularJS Date Converter.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\TicketVista\AngularJS Date Converter\AngularJS Date Converter.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Projects\TicketVista\AngularJS Date Converter\AngularJS Date Converter.Tests\bin\Debug\System.Web.Http.dll
+C:\Projects\TicketVista\AngularJS Date Converter\AngularJS Date Converter.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Projects\TicketVista\AngularJS Date Converter\AngularJS Date Converter.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Projects\TicketVista\AngularJS Date Converter\AngularJS Date Converter.Tests\bin\Debug\System.Web.Razor.dll
+C:\Projects\TicketVista\AngularJS Date Converter\AngularJS Date Converter.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Projects\TicketVista\AngularJS Date Converter\AngularJS Date Converter.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Projects\TicketVista\AngularJS Date Converter\AngularJS Date Converter.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Projects\TicketVista\AngularJS Date Converter\AngularJS Date Converter.Tests\bin\Debug\AngularJS Date Converter.pdb
+C:\Projects\TicketVista\AngularJS Date Converter\AngularJS Date Converter.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Projects\TicketVista\AngularJS Date Converter\AngularJS Date Converter.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Projects\TicketVista\AngularJS Date Converter\AngularJS Date Converter.Tests\bin\Debug\System.Web.Http.xml
+C:\Projects\TicketVista\AngularJS Date Converter\AngularJS Date Converter.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Projects\TicketVista\AngularJS Date Converter\AngularJS Date Converter.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Projects\TicketVista\AngularJS Date Converter\AngularJS Date Converter.Tests\bin\Debug\System.Web.Razor.xml
+C:\Projects\TicketVista\AngularJS Date Converter\AngularJS Date Converter.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Projects\TicketVista\AngularJS Date Converter\AngularJS Date Converter.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Projects\TicketVista\AngularJS Date Converter\AngularJS Date Converter.Tests\bin\Debug\System.Web.WebPages.Deployment.xml

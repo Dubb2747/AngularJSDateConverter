@@ -1,0 +1,41 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+<!--Define ng-app and name the application DateConverter-->
+<div ng-app="DateConverter">
+    <h2>AngularJS Date Converter</h2>
+    <div class="row">
+        <!--The form will submit to this page with submit() and ng-controller directive links the form-->
+        <!--to the AngularJS controller, AngularJS will listen for the submit event and post to-->
+        <!--the Web API controller with the data in the form-->
+        <form ng-submit="submit()" ng-controller="DateConversionController">
+            <div class="col-lg-3">
+                <label>Date</label>
+            </div>
+            <div class="col-lg-3">
+                <div class="input-group">
+                    <input type="text" id="date" ng-model="Date" class="form-control" placeholder="mm/dd/yyyy --:-- --">
+                    <span class="input-group-btn">
+                        <input type="submit" class="btn btn-default" value="Submit" />
+                    </span>
+                </div>
+            </div>
+            <br />
+            <br />
+            <br />
+            <!--Messages returned from the Web API controller will display here-->
+            <!--The ng-show directive allows elements to be hidden if there is no data in the message-->
+            <!--Message and ErrorMessage are set by the Web API controller-->
+            <!--show and showError are set in the AngularJS controller-->
+            <div class="alert alert-info" ng-show="hideDefault == null" role="alert">Waiting for response...</div>
+            <div class="alert alert-success" role="alert" ng-show="show != null" ng-model="Message">{{Message}}</div>
+            <div class="alert alert-danger" role="alert" ng-show="showError != null" ng-model="ErrorMessage">{{ErrorMessage}}</div>
+        </form>
+    </div>
+</div>
+@section scripts {
+    @* Load primary AngularJS file to initialize AngularJS *@
+    @Scripts.Render("~/Scripts/angular.js")
+    @* Load AngularJS controller to handle post and returned Json response *@
+    @Scripts.Render("~/Scripts/app/date-conversion-controller.js")
+}
